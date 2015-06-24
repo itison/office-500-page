@@ -17,7 +17,7 @@ body {
 	background-repeat: no-repeat;
 }
 div.dialog {      
-  background: transparent url("images/logo.png") top center no-repeat;
+  background: transparent url("/500/images/logo.png") top center no-repeat;
   width: 40em;
   padding: 50px 4em 0 4em;
   margin: 6em auto 0 auto;
