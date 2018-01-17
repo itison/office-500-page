@@ -7,16 +7,9 @@ html, body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 body {
-	background-color: #e72470;
-	background-image: -webkit-gradient(linear, 0 0%, 0 100%, from(#e72470), to(#222222));
-	background-image: -webkit-linear-gradient(top, #e72470 0%, #222222 100%);
-	background-image: -moz-linear-gradient(top, #e72470 0%, #222222 100%);
-	background-image: -ms-linear-gradient(top, #e72470 0%, #222222 100%);
-	background-image: -o-linear-gradient(top, #e72470 0%, #222222 100%);
-	background-image: linear-gradient(top, #e72470 0%, #222222 100%);
-	background-repeat: no-repeat;
+	background-color: #ff8cbd;
 }
-div.dialog {      
+div.dialog {
   background: transparent url("/500/images/logo.png") top center no-repeat;
   width: 40em;
   padding: 50px 4em 0 4em;
@@ -27,7 +20,7 @@ h1, h2, p {
   margin: 0 0 0.5em 0;
   padding: 0;
 }
-img {      
+img {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
